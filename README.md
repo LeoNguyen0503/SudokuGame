@@ -5,3 +5,5 @@ Here is the link: https://www.youtube.com/watch?v=qH9mWpYMtYU&t=2668s&ab_channel
 And github link of the source code: https://github.com/BracketCove/JavaDesktopSudoku/tree/withoutgradle.
 
 I have make it into a .jar file. 
+
+The game will allow users to play a basic Sodoku Game. 
